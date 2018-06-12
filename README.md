@@ -10,3 +10,7 @@ Test MNE is working:
 
 You should be seeing something like:
 `0.17.dev0`
+
+Download the [example file](https://github.com/jona-sassenhagen/mne_workshop_amsterdam/blob/master/oddball_example_small-fif.gz).
+
+Jupyter Notebooks will be made available in due time.
