@@ -13,4 +13,4 @@ You should be seeing something like:
 
 Download the [example file](https://github.com/jona-sassenhagen/mne_workshop_amsterdam/blob/master/oddball_example_small-fif.gz).
 
-Jupyter Notebooks will be made available in due time.
+Also download the Jupyter Notebooks to the same location as the example file.
