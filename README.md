@@ -2,7 +2,7 @@ Ensure you are using an up to date, Anaconda-based Python.
 
 Please access a command line (e.g., Anaconda prompt), and install the dev version of MNE:
 
-`pip install git+https://github.com/mne-tools/mne-python.git`
+`pip install https://api.github.com/repos/mne-tools/mne-python/zipball/master`
 
 Test MNE is working:
 
