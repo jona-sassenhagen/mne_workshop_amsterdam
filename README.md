@@ -1,4 +1,24 @@
+# EPOS Workshop Amsterdam 2018
+
+These are the resources for EPOS workshop that took place at the University of Amsterdam on June 14 and 15, 2018.
+
 Ensure you are using an up to date, Anaconda-based Python.
+
+- <https://anaconda.org/>
+
+
+## Day 1: Python and OpenSesame
+
+Materials for the Python workshop can be found here:
+
+- <http://python.cogsci.nl>
+
+Materials for the OpenSesame workshop can be found here:
+
+- <http://osdoc.cogsci.nl/3.2/tutorials/capybara/>
+
+
+## Day 2: Analyzing EEG data with MNE
 
 Please access a command line (e.g., Anaconda prompt), and install the dev version of MNE:
 
