@@ -4,7 +4,7 @@ These are the resources for EPOS workshop that took place at the University of A
 
 Ensure you are using an up to date, Anaconda-based Python.
 
-- <https://anaconda.org/>
+- <http://anaconda.com/download/>
 
 
 ## Day 1: Python and OpenSesame
